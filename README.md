@@ -20,7 +20,7 @@
 
 ### Step 4.:- Check all Electrical connections in the 3D printer.
 ### Step 5.:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option.
-![image](https://github.com/PuliNagaNeeraj/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849173/587d1faf-ca1a-4b9f-95cf-40060139f4b2)
+![image](https://github.com/PuliNagaNeeraj/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849173/e50535a0-edb5-42df-aad6-58ffafc35973)
 
 ### Step 6.:- Select the Pan option and select the extruder (left or right) for printing the design.
 ### Step 7.:- Select the Move option for design print position in build tack plate and then after select the Rotate option for rotating the design easily printed and used low print material.
