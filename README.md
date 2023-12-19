@@ -36,6 +36,7 @@
 ![image](https://github.com/PuliNagaNeeraj/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849173/f6affdfa-3255-4f3d-8cd5-33948a773135)
 
 ### Step 10.:- After generate the gcode format then follow the these instruction 
+![image](https://github.com/PuliNagaNeeraj/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849173/a2fb9d08-5ae2-43c7-8595-eddd80485d41)
 
   ###   ●	Switch on the 3d printer.
   ###   ●	Place your Pen drive in USB.
